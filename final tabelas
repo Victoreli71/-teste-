@@ -1,0 +1,128 @@
+<html>
+  <head> 
+    <title>TABELA DESAFIOS A2 </title>
+  </head>
+<body>
+   <table border="1" width="45%" 
+
+height="400px" align="left" valign="top">
+     <tr>
+        <td align="center" colspan="3"> 1 
+
+</td>
+       
+    </tr>
+    <tr>
+        <td align="center"> 4 </td> 
+        <td align="center"> 5 </td>
+        <td align="center"> 6 </td>
+    </tr>
+    <tr>
+       <td align="center"> 7 </td>
+       <td align="center"> 8 </td>
+       <td align="center"> 9 </td>
+
+
+    </tr>
+    
+</table>
+
+ <table border="2" width="45%" 
+
+height="400px" align="right" valign="top">
+     <tr>
+        <td align="center" rowspan="3"> 1 
+
+</td>
+        <td align="center"> 2 </td>
+        <td align="center"> 3 </td>
+    </tr>
+    <tr>
+        <td align="center"> 5 </td>
+        <td align="center"> 6 </td>
+    </tr>
+    <tr>
+       <td align="center"> 8 </td>
+       <td align="center"> 9 </td>
+
+
+    </tr>
+    
+</table> 
+
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+&nbsp<br>
+
+<table border="3" width="50%" height="500px" 
+
+align="left" valign="top">
+     <tr>
+        <td align="center" colspan="5"> 1 
+
+</td>
+       
+    </tr>
+    <tr>
+        <td align="center" rowspan="4"> 6 
+
+</td>
+        <td align="center"> 7 </td>
+        <td align="center"> 8 </td>
+        <td align="center"> 9 </td>
+        <td align="center"> 10 </td>
+    </tr>
+    <tr>
+       <td align="center"> 12 </td>
+       <td align="center"> 13 </td>
+       <td align="center" rowspan="2"> 14 
+
+</td>
+       <td align="center"> 15 </td>
+    </tr>
+    <tr>
+       <td align="center"> 17 </td>
+       <td align="center"> 18 </td>
+       <td align="center"> 20 </td>
+    </tr>
+    <tr>
+       <td align="center" colspan="3"> 22 
+
+</td>
+       <td align="center"> 25 </td>
+     </tr>
+    
+</table> 
+
+
+    
+
+    
+</body>
+    
+    
+</html>
