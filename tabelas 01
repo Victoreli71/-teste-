@@ -1,0 +1,120 @@
+<html>
+  <head> 
+    <title>TABELA DESAFIOS A2 </title>
+  </head>
+<body>
+   <table border="1"width="50%" height="100px" 
+
+align="left" valign="top">
+     <tr>
+        <td align="left"> 1 </td>
+        <td  align="left"> 2 </td>
+        <td  align="left"> 3 </td>
+
+    </tr>
+    <tr>
+        <td  align="center"> 4 </td> 
+        <td  align="center"> 5 </td>
+        <td  align="center"> 6 </td>
+
+    </tr>
+    <tr>
+        <td  align="right"> 7 </td>
+        <td  align="right"> 8 </td>
+        <td  align="right"> 9 </td>
+
+
+    </tr>
+    
+</table>
+
+&nbsp
+<br>
+&nbsp
+<br>
+&nbsp
+<br>
+&nbsp
+<br>
+&nbsp
+<br>
+&nbsp
+<br>
+&nbsp
+<br>
+
+<table border="2"width="50%" height="100px" 
+
+align="left"> 
+
+     <tr>
+        <td align="left"> 1 </td>
+        <td  align="left"> 2 </td>
+        <td  align="left"> 3 </td>
+
+    </tr>
+    <tr>
+        <td colspan="3" align="center"> 4 </td> 
+       
+
+    </tr>
+    <tr>
+        <td  align="left"> 7 </td>
+        <td  align="left"> 8 </td>
+        <td  align="left"> 9 </td>
+
+
+    </tr>
+    
+</table>
+
+&nbsp
+<br>
+&nbsp
+<br>
+&nbsp
+<br>
+&nbsp
+<br>
+&nbsp
+<br>
+&nbsp
+<br>
+&nbsp
+<br>
+
+<table border="3"width="50%" height="100px" 
+
+align="left"> 
+
+     <tr>
+        <td align="left"> 1 </td>
+        <td  align="left"> 2 </td>
+        <td rowspan="3" align="center"> 3 </td>
+        
+
+    </tr>
+    <tr>
+        <td colspan="2" align="center"> 4 </td> 
+       
+
+    </tr>
+    <tr>
+        <td  align="left"> 7 </td>
+        <td  align="left"> 8 </td>
+       
+
+
+    </tr>
+    
+</table>
+ 
+
+    
+
+
+
+</body>
+    
+    
+</html>
