@@ -1,0 +1,38 @@
+<html>
+  <head> 
+    <title>TABELA DESAFIOS A2 </title>
+  </head>
+<body>
+   <table border="1" width="40%" 
+
+align="left" valign="top">
+
+     <tr>
+        <td colspan="3" align="center" 
+
+height="70px"> TOPO </td>
+      
+    </tr>
+    <tr>
+        <td height="300px" width="30%" 
+
+align="center"> MENU</td> 
+        <td colspan="2" align="center"> 
+
+CONTEUDO  </td>
+        
+    </tr>
+    <tr>
+        <td colspan="3" align="center" 
+
+height="50px"> RODAPÉ </td>
+       
+
+    </tr>
+    
+</table>
+    
+</body>
+    
+    
+</html>
