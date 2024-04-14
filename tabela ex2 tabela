@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+    <title>tabela exercicio</title>
+ <style>
+      table{
+        width: 30%;
+        border-collapse: collapse;
+        height: 100px;
+
+
+      }
+      .omni{
+        background-color: rgb(111, 111, 2);
+        color: white;
+      }
+      .franca{
+        background-color: rgb(141, 141, 249);
+        color: black;
+      }
+      .life{
+        background-color: rgb(141, 141, 249) ;
+      }
+ 
+
+
+
+
+
+</style>
+
+
+
+
+
+</head>
+
+  <body>
+     <table border="1">
+       <tr class="omni">
+           <td align="center"> Aluno </td>
+           <td align="center"> Curso </td>
+           <td align="center"> Nota </td>
+       </tr>  
+       <tr class="franca"> 
+           <td> joao </td>
+           <td align="center"> integrado info. </td>
+           <td> 65 </td>
+       </tr>
+       <tr class="ok"> 
+           <td> maria </td>
+           <td align="center"> integrado info. </td>
+           <td> 86 </td>
+    </tr>
+    <tr class="life"> 
+         <td> joana </td>
+         <td align="center"> integrado info. </td>
+         <td> 95 </td>
+    </tr>
+    <tr class="what"> 
+        <td> jose </td>
+        <td align="center"> integrado info. </td>
+        <td> 78 </td>
+    </tr>
+     </table>
+  </body>
+</html>
